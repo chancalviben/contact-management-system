@@ -18,6 +18,4 @@ Requirements:
 Python 3.8 or higher
 Dependencies listed in requirements.txt
 
-for quries:
-mail : ramita.v2022ai-ml@sece.ac.in
-linkedin : https://www.linkedin.com/in/ramita-v-ai-ml-a748562a7/
+
